@@ -25,3 +25,4 @@ It uses the functions developed for the paper implementation to create synthetic
 
 # Contact Information
 Contact: gabriel.pilah@pucp.edu.pe
+Name: Gabriel Pila  
